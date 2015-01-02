@@ -9,13 +9,16 @@ body {
     background: #eee;
     color: #666666;
 }
+* {
+	margin:0;
+}
 .navbar { margin-bottom: 10px }
 .navbar .navbar-inner {
     border-radius: 0px 0px 3px 3px;
 }
 #spinner { height: 300px }
 .post {
-    *zoom: 1;
+    zoom: 1;
     -webkit-transition: all 300ms 0ms;
     -webkit-transition-delay: ease-in;
     -moz-transition: all 300ms 0ms ease-in;

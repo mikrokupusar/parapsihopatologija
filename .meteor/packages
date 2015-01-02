@@ -6,12 +6,11 @@
 
 meteor-platform
 insecure
-ian:bootstrap-3
 iron:router
 spin
 jquery
 blaze
-mrt:bootstrap-united
-accounts-password
 accounts-base
+accounts-password
+mrt:bootstrap-united
 accounts-ui
